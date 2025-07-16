@@ -1,0 +1,3 @@
+# Chapter 10: The Human Eye and the Colorful World
+
+Chapter 10 explores the human eye's structure and functioning as an optical instrument. The eye uses a lens system to form images on the retina, with the cornea providing most refraction and the crystalline lens allowing focal length adjustment (accommodation). The chapter explains common vision defects: myopia (nearsightedness), hypermetropia (farsightedness), and presbyopia (age-related reduced accommodation). Each defect has specific causes and can be corrected with appropriate lenses - concave for myopia and convex for hypermetropia. The chapter also addresses natural optical phenomena like rainbows and the blue sky.

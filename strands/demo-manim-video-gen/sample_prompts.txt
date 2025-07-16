@@ -1,0 +1,2 @@
+Create a Manim scene that draws the cubic function (2x^3 - 3x^2 + x - 1) from x = -3 to x = 3 in 9 seconds.
+Create a Manim scene using the most recent available data for the population and GDP of the top 5 economies. Ensure that the animations do not overlap and that the transitions are clear.

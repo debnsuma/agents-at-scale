@@ -1,0 +1,8 @@
+.venv
+strands/demo-manim-video-gen/output
+.DS_Store
+*.pyc
+__pycache__/
+.env
+.pytest_cache/
+.coverage
