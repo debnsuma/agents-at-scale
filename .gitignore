@@ -6,3 +6,7 @@ __pycache__/
 .env
 .pytest_cache/
 .coverage
+
+**/.bedrock_agentcore.yaml
+**/Dockerfile
+
